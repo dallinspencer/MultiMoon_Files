@@ -3,7 +3,7 @@
 
 There are two functions you can use in this python code.
 
-makeHorFile(objectName)
+makeHorFile(objectName): 
  This function accepts a string of an object's name or ID, and outputs a csv file in the same file/repo
  as the code.
  In reality, This function will technically currently output 2 csv files, one with a column for geocentric julian datetime, and one for the 
